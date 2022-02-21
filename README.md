@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZaneStanutz
-- 👀 I’m interested in ... AI, Cryptography, Tor network
+- 👀 I’m interested in ... AI, Cryptography
 - 🌱 I’m currently learning ... web development mobile specialist at triOS College
 - 💞️ I’m looking to collaborate on ...ANYTHING!!
 - 📫 How to reach me ... find me on the web!
