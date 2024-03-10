@@ -1,5 +1,5 @@
 
-Just a regular human being. &#1F973 
+Just a regular human being. "&#1F973" 
 
 <!---
 ZaneStanutz/ZaneStanutz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
